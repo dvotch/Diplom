@@ -17,6 +17,8 @@
     "paths": {
       "src/*": ["src/*"]
     },
+    "types": ["node", "jest"],
+    "allowJs": true,
 
     /* Linting */
     "strict": true,
